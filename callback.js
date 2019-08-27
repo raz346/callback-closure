@@ -9,5 +9,5 @@ var names = ["Alice", "Bob", "Waldo", "Winston"]
 function actionWhenFound(i) {
       console.log("Found him, he is in number " + i);
 }
-
+##test
 findWaldo(names, actionWhenFound);
